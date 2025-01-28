@@ -69,3 +69,4 @@ Simply open [Lovable](https://lovable.dev/projects/ab59afbe-ebcf-4406-8b07-67204
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
 // Code for README.md
 // Code for README.md
+// Code for README.md
